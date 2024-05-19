@@ -1,6 +1,9 @@
 Accenture Virtual Internship: Data Visualization using Excel
+
 Overview
 This repository contains my work from the Accenture Virtual Internship focused on Data Visualization using Excel. This internship, completed in 6 hours, provided hands-on experience in analyzing and visualizing data effectively to derive meaningful insights.
+
+
 
 Learning Objectives
 Understanding the principles of data visualization.
@@ -14,6 +17,7 @@ Implementing conditional formatting for enhanced data interpretation
 Developing interactive dashboards
 Projects and Exercises
 The internship included practical exercises and projects to reinforce the concepts learned. Some of the tasks involved:
+
 
 Data Cleaning: Preparing raw data for analysis by removing duplicates, handling missing values, and standardizing formats.
 Chart Creation: Designing different types of charts to represent data trends and comparisons effectively.
